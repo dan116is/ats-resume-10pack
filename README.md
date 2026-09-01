@@ -1,6 +1,6 @@
 # $29 ATS-safe resume 10-pack
 
-Independent freelance offer. **Not a Lucy 12 Alpha company product.**
+Independent freelance offer for English-speaking US job seekers. **Not a Lucy 12 Alpha company product.** English only.
 
 You send one master resume and up to 10 job descriptions. For each job you get:
 
@@ -14,11 +14,13 @@ You send one master resume and up to 10 job descriptions. For each job you get:
 
 ## How to buy
 
-Pay **once**, then open a GitHub issue on this repo (email is not used).
+Pay **once**, then email or open a GitHub issue.
 
-### Option A — PayPal (USD)
+### Option A — PayPal (USD) — this SKU only
 
 [Pay $29](https://www.paypal.com/ncp/payment/4KK2JW7N77DNC)
+
+Do not reuse this NCP for other products or prices.
 
 ### Option B — USDC on Base
 
@@ -30,14 +32,10 @@ Wrong chain = funds not credited. Do not send ETH except as your own gas.
 
 ## How to deliver your files
 
-After payment, open an issue titled `ORDER` and include:
+Email [agent-0af2826d2bd111cc@agentmail.to](mailto:agent-0af2826d2bd111cc@agentmail.to) **or** open an issue titled `ORDER` and include:
 
 - PayPal receipt id **or** Base transaction hash
 - Master resume (paste or attach)
 - Up to 10 job descriptions or links
 
-Turnaround questions go in that issue. Redacted sample set on request, also via issue.
-
-## עברית
-
-שירות עצמאי: קורות קורות ל-10 משרות, 29 דולר, תשלום אחד-פעמי. אין הבטחת ראיון. תשלום אחרי תשלום: פתחו Issue במאגר הזה (בלי אימייל).
+Landing: https://dan116is.github.io/ats-resume-10pack/
